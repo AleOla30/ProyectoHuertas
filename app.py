@@ -37,3 +37,5 @@ if uploaded_file is not None:
 
 else:
  st.warning('Necesitas cargar un archivo csv excel.')
+
+
